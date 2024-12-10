@@ -18,7 +18,7 @@ A file server with Google OAuth2 authentication.
 - `GOOGLE_CLIENT_SECRET`: Your Google OAuth client secret (required)
 - `SERVE_DIR`: Directory to serve files from (default: "static")
 - `SERVER_PORT`: Port to run the server on (default: 8080)
-- 
+
 ## Running the Server
 
 1. Clone the repository:
